@@ -1,0 +1,22 @@
+{
+  "name": "bobiza-md",
+  "version": "1.0.0",
+  "description": "session id gen",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "guru",
+  "license": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "axios": "^1.5.0",
+    "cfonts": "^3.2.0",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "pino": "^8.15.1",
+    "qrcode-terminal": "^0.12.0",
+    "readline": "^1.3.0"
+  }
+}
